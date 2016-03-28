@@ -1,0 +1,9 @@
+c:\users\eason lee\documents\visual studio 2013\Projects\A2cal\A2cal\obj\Debug\A2cal.csprojResolveAssemblyReference.cache
+c:\users\eason lee\documents\visual studio 2013\Projects\A2cal\A2cal\bin\Debug\A2cal.dll
+c:\users\eason lee\documents\visual studio 2013\Projects\A2cal\A2cal\bin\Debug\A2cal.pdb
+c:\users\eason lee\documents\visual studio 2013\Projects\A2cal\A2cal\obj\Debug\A2cal.dll
+c:\users\eason lee\documents\visual studio 2013\Projects\A2cal\A2cal\obj\Debug\A2cal.pdb
+C:\Users\Eason Lee\Documents\Visual Studio 2013\Projects\Gui-based Cal\A2cal\A2cal\bin\Debug\A2cal.dll
+C:\Users\Eason Lee\Documents\Visual Studio 2013\Projects\Gui-based Cal\A2cal\A2cal\bin\Debug\A2cal.pdb
+C:\Users\Eason Lee\Documents\Visual Studio 2013\Projects\Gui-based Cal\A2cal\A2cal\obj\Debug\A2cal.dll
+C:\Users\Eason Lee\Documents\Visual Studio 2013\Projects\Gui-based Cal\A2cal\A2cal\obj\Debug\A2cal.pdb
